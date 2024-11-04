@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://axogauna.github.io/Jms/sitemap_index.txt
+Sitemap: https://axogauna.github.io/OGl/sitemap_index.txt
+Sitemap: https://axogauna.github.io/Whf/sitemap_index.txt
+Sitemap: https://axogauna.github.io/XdH/sitemap_index.txt
